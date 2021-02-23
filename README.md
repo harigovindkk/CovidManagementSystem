@@ -6,4 +6,4 @@ execute splashscreen.java
 It will call login.java
 
 The database connection is provided in the file Connector.java.
-The necessary SQL Files are provided in the folder SQL 
+The necessary SQL Files are provided in the folder named SQL and the required libraries are in the folder named Libraries. 
